@@ -19,7 +19,7 @@ que comparava a lista com as listas de notas dos cadidados com a lista das notas
 No final, o resultado com as notas dos cadidados aprovados deveriam ser mostradas no seguinte formato:
 :small_orange_diamond: eX_tX_pX_sX
 
-Ao informar as notas mínimas como 4,4,8,8 por exemplo, o programa iria nos informar apenas os
+Ao informar as notas mínimas como 4,4,8,8 por exemplo, o programa irá nos informar apenas os
 candidatos que conseguiram notas igual ou maior que as informadads em todos os requisitos.
 
 ### :computer: <strong>Tecnologias utilizadas:</strong>
